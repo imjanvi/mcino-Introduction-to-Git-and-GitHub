@@ -1,0 +1,150 @@
+{
+  "id": 1119095140,
+  "node_id": "R_kgDOQrQJZA",
+  "name": "github-final-project-",
+  "full_name": "imjanvi/github-final-project-",
+  "private": false,
+  "owner": {
+    "login": "imjanvi",
+    "id": 140166621,
+    "node_id": "U_kgDOCFrF3Q",
+    "avatar_url": "https://avatars.githubusercontent.com/u/140166621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/imjanvi",
+    "html_url": "https://github.com/imjanvi",
+    "followers_url": "https://api.github.com/users/imjanvi/followers",
+    "following_url": "https://api.github.com/users/imjanvi/following{/other_user
+}",
+    "gists_url": "https://api.github.com/users/imjanvi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/imjanvi/starred{/owner}{/repo}"
+,
+    "subscriptions_url": "https://api.github.com/users/imjanvi/subscriptions",
+    "organizations_url": "https://api.github.com/users/imjanvi/orgs",
+    "repos_url": "https://api.github.com/users/imjanvi/repos",
+    "events_url": "https://api.github.com/users/imjanvi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/imjanvi/received_events
+",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "html_url": "https://github.com/imjanvi/github-final-project-",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/imjanvi/github-final-project-",
+  "forks_url": "https://api.github.com/repos/imjanvi/github-final-project-/forks
+",
+  "keys_url": "https://api.github.com/repos/imjanvi/github-final-project-/keys{/
+key_id}",
+  "collaborators_url": "https://api.github.com/repos/imjanvi/github-final-projec
+t-/collaborators{/collaborator}",
+  "teams_url": "https://api.github.com/repos/imjanvi/github-final-project-/teams
+",
+  "hooks_url": "https://api.github.com/repos/imjanvi/github-final-project-/hooks
+",
+  "issue_events_url": "https://api.github.com/repos/imjanvi/github-final-project
+-/issues/events{/number}",
+  "events_url": "https://api.github.com/repos/imjanvi/github-final-project-/even
+ts",
+  "assignees_url": "https://api.github.com/repos/imjanvi/github-final-project-/a
+ssignees{/user}",
+  "branches_url": "https://api.github.com/repos/imjanvi/github-final-project-/br
+anches{/branch}",
+  "tags_url": "https://api.github.com/repos/imjanvi/github-final-project-/tags",
+  "blobs_url": "https://api.github.com/repos/imjanvi/github-final-project-/git/b
+lobs{/sha}",
+  "git_tags_url": "https://api.github.com/repos/imjanvi/github-final-project-/gi
+t/tags{/sha}",
+  "git_refs_url": "https://api.github.com/repos/imjanvi/github-final-project-/gi
+t/refs{/sha}",
+  "trees_url": "https://api.github.com/repos/imjanvi/github-final-project-/git/t
+rees{/sha}",
+  "statuses_url": "https://api.github.com/repos/imjanvi/github-final-project-/st
+atuses/{sha}",
+  "languages_url": "https://api.github.com/repos/imjanvi/github-final-project-/l
+anguages",
+  "stargazers_url": "https://api.github.com/repos/imjanvi/github-final-project-/
+stargazers",
+  "contributors_url": "https://api.github.com/repos/imjanvi/github-final-project
+-/contributors",
+  "subscribers_url": "https://api.github.com/repos/imjanvi/github-final-project-
+/subscribers",
+  "subscription_url": "https://api.github.com/repos/imjanvi/github-final-project
+-/subscription",
+  "commits_url": "https://api.github.com/repos/imjanvi/github-final-project-/com
+mits{/sha}",
+  "git_commits_url": "https://api.github.com/repos/imjanvi/github-final-project-
+/git/commits{/sha}",
+  "comments_url": "https://api.github.com/repos/imjanvi/github-final-project-/co
+mments{/number}",
+  "issue_comment_url": "https://api.github.com/repos/imjanvi/github-final-projec
+t-/issues/comments{/number}",
+  "contents_url": "https://api.github.com/repos/imjanvi/github-final-project-/co
+ntents/{+path}",
+  "compare_url": "https://api.github.com/repos/imjanvi/github-final-project-/com
+pare/{base}...{head}",
+  "merges_url": "https://api.github.com/repos/imjanvi/github-final-project-/merg
+es",
+  "archive_url": "https://api.github.com/repos/imjanvi/github-final-project-/{ar
+chive_format}{/ref}",
+  "downloads_url": "https://api.github.com/repos/imjanvi/github-final-project-/d
+ownloads",
+  "issues_url": "https://api.github.com/repos/imjanvi/github-final-project-/issu
+es{/number}",
+  "pulls_url": "https://api.github.com/repos/imjanvi/github-final-project-/pulls
+{/number}",
+  "milestones_url": "https://api.github.com/repos/imjanvi/github-final-project-/
+milestones{/number}",
+  "notifications_url": "https://api.github.com/repos/imjanvi/github-final-projec
+t-/notifications{?since,all,participating}",
+  "labels_url": "https://api.github.com/repos/imjanvi/github-final-project-/labe
+ls{/name}",
+  "releases_url": "https://api.github.com/repos/imjanvi/github-final-project-/re
+leases{/id}",
+  "deployments_url": "https://api.github.com/repos/imjanvi/github-final-project-
+/deployments",
+  "created_at": "2025-12-18T18:26:55Z",
+  "updated_at": "2025-12-19T05:52:10Z",
+  "pushed_at": "2025-12-19T05:52:06Z",
+  "git_url": "git://github.com/imjanvi/github-final-project-.git",
+  "ssh_url": "git@github.com:imjanvi/github-final-project-.git",
+  "clone_url": "https://github.com/imjanvi/github-final-project-.git",
+  "svn_url": "https://github.com/imjanvi/github-final-project-",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 0,
+  "watchers_count": 0,
+  "language": "Shell",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "has_discussions": false,
+  "forks_count": 0,
+  "mirror_url": null,
+  "archived": false,
+  "disabled": false,
+  "open_issues_count": 0,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "allow_forking": true,
+  "is_template": false,
+  "web_commit_signoff_required": false,
+  "topics": [
+
+  ],
+  "visibility": "public",
+  "forks": 0,
+  "open_issues": 0,
+  "watchers": 0,
+  "default_branch": "main",
+  "temp_clone_token": null,
+  "network_count": 0,
+  "subscribers_count": 0
+}
