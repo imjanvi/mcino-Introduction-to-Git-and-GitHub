@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# Introduction to Git and GitHub##
 
 ## Simple Interest Calculator
 
@@ -11,6 +11,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+fixed minor change
 ```
 
 _© 2022 XYZ, Inc._
